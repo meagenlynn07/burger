@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "root",
+      "password": "root",
+      "database": "burgers_db",
+      "host": "8889",
+      "dialect": "mysql"
+
+     }
+}
